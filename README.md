@@ -8,3 +8,4 @@ Blog engine and editing tool for Django / Python3 and PostgreSQL
 * Real REST interface
 * Only server side implementation
 * CommonMark
+* language depeneend Full Text Search (FTS) based on PostgreSQL
