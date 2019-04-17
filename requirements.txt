@@ -1,0 +1,4 @@
+psycopg2-binary
+restosaur==0.7.0b7
+commonmark
+django-sqltemplate==0.5.2
