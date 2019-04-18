@@ -3,9 +3,14 @@ Blog engine and editing tool for Django / Python3 and PostgreSQL
 
 ## Goals
 
+* Admin interface for support / managing blog posts
+* REST interface for displaying, searching and managing posts
+
+## Technical assumptions
+
 * Python3
-* PostgreSQL (usage of Postgres types)
+* PostgreSQL only
 * Real REST interface
-* Only server side implementation
-* CommonMark
-* language dependent Full Text Search (FTS) based on PostgreSQL
+* Server side implementation only
+* CommonMark as a markup engine
+* FTS (full text search)
