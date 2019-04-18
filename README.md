@@ -3,9 +3,11 @@ Blog engine and editing tool for Django / Python3 and PostgreSQL
 
 ## Goals
 
-* Admin interface for support / managing blog posts
+* Good database model for long-live maintenance
 * REST interface for displaying, searching and managing posts
+* Admin interface for support / managing blog posts
 * Plugin/extensions interface
+* Lightweight / no external tools required (i.e. no ElasticSearch/SOLR required)
 
 ## Technical assumptions
 
