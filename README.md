@@ -7,8 +7,7 @@ Blog engine and editing tool for Django / Python3 and PostgreSQL
 * REST interface for displaying, searching and managing posts
 * Admin interface for support / managing blog posts
 * Plugin/extensions interface
-* Lightweight / no external tools required (i.e. no ElasticSearch/SOLR required)
-
+* Lightweight / no external tools required (i.e. FTS)
 ## Technical assumptions
 
 * Python3 & Django 2.x
